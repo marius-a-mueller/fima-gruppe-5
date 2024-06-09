@@ -71,7 +71,7 @@ Bitcoin und Ethereum: Diese beiden dominierenden Kryptowährungen haben nach ein
 
 Sowohl die Federal Reserve als auch die Europäische Zentralbank haben ihre Leitzinsen im Jahr 2024 erhöht, um die hohe Inflation zu bekämpfen. Diese geldpolitischen Maßnahmen zeigen erste Erfolge in der Reduktion der Inflationsraten, aber die Teuerung bleibt weiterhin ein zentrales wirtschaftliches Problem. Die Leitzinserhöhungen sollen die Inflationserwartungen dämpfen und die Preisstabilität mittelfristig sichern. Insgesamt zeigt sich der Wertpapiermarkt (Stand 1.April 2024) als eine komplexe Mischung aus Chancen und Risiken. Während einige Märkte wie Aktien und bestimmte Rohstoffe von wirtschaftlicher Erholung und technologischem Fortschritt profitieren, bleiben andere Segmente wie Anleihen und Kryptowährungen von makroökonomischen Unsicherheiten und regulatorischen Veränderungen geprägt. Diversifikation und ein gutes Risikomanagement bleiben daher für Investoren entscheidend. 
 
-## Strategie
+## Strategie[^strategie]
 
 Bei unserer Anlagestrategie waren uns zwei Punkte besonders wichtig: Ein stark diversifiziertes und ein langfristig stabiles Portfolio.
 Dazu haben wir ein Portfolio mit möglichst vielen verschiedenen Anlageklassen erstellt, darunter Aktien, Fonds, Anleihen, Rohstoffe, Optionsscheine und Kryptowährungen. Durch die gezielte Kombination dieser Anlageklassen haben wir versucht sowohl Stabilität als auch Wachstum in unserem Portfolio zu gewährleisten. Schlussendlich haben wir uns dann einige Strategien zu nutze gemacht.
@@ -106,13 +106,39 @@ Diese Erkenntnisse unterstreichen die Bedeutung einer fundierten und flexiblen A
 
 ## Diversifikation des Portfolios
 
-### Nach Ländern
+Die Diversifikation ist ein zentrales Prinzip im Finanzmanagement, welches darauf abzielt das Risiko innerhalb eines Portfolios zu minimieren. Dies soll durch Investitionen über verschiedene Länder, Währungen, Anlageklassen und Branchen erreicht werden. In unserem Portfolio haben wir versucht dieses Prinzip bestmöglich umzusetzen, dabei jedoch auf eine starke Rendite zu achten, während wir das Risiko möglichst gering halten.
 
-### Nach Währung
+### Diversifikation nach Ländern
 
-### Nach Anlageklassen
+Unser Portfolio könnte geografisch breiter gestreut sein als es bei uns ist, um das länderspezifische Risiko zu minimieren. Doch haben wir uns trotzdem dazu entschieden einen Großteil unseres Portfolios in die USA und ein kleineren Teil in Deutschland zu investieren. Der Rest wurde breit gestreut. Diese Verteilung soll dabei helfen, politische und wirtschaftliche Risiken einzelner Länder etwas zu reduzieren, aber hauptsächlich von dem Wachstumspotenzial der starken Länder zu profitieren. Die USA sind das wirtschaftlich wichtigste und ertragsreichste Land[^bip_usa], weshalb wir nicht vermeiden konnten dort den Großteil unseres Portfolios zu investieren um die besten Chancen auf eine ertragreiche Rendite zu erhalten.
 
-### Nach Branchen
+[^bip_usa]: https://de.statista.com/statistik/daten/studie/157841/umfrage/ranking-der-20-laender-mit-dem-groessten-bruttoinlandsprodukt/
+
+Die US-Staatsanleihen, die 20% unseres Portfolios ausmachen, bieten eine stabile und sichere Ertragsquelle. Unsere ETFs, welche etwa 50% unseres Portfolios ausmachen, bieten die beste Möglichkeit für eine breite Diversifikation über einige Länder und zahlreiche Märkte hinweg. Zusätzlich haben wir in die Kryptowährungen Bitcoin und Solana investiert, die weltweit anerkannt sind und hohes Wachstumspotenzial aufweisen.
+
+### Diversifikation nach Währung
+
+Die Währungsdiversifikation in unserem Portfolio verhält sich ähnlich zu der Diversifikation nach Ländern, soll aber ebenso zu einer Risikominderung führen. Die Investitionen in US-Aktien, US-Staatsanleihen, US-dominante ETFs sowie Bitcoin, Solana und die Optionsscheine auf Tesla und Nasdaq sind alle in US-Dollar denominiert. Dies spiegelt wieder die Dominanz des US-Marktes in unserem Portfolio wider. Ein kleinerer Teil des Portfolios ist in Euro denominiert, was uns helfen soll, das Risiko von Wechselkursschwankungen zwischen dem Euro und anderen Währungen zu streuen.
+
+### Diversifikation nach Anlageklassen
+
+Unser Portfolio hat hinsichtlich verschiedener Anlageklassen eine stark gefächerte Aufteilung. So haben wir in sechs von den gängigsten Anlagearten investiert, um eine möglichst hohe Diversifikation zu erreichen und unterschiedlichen Marktbewegungen standhalten zu können. Aktien machen etwa 10% unseres Portfolios aus und bieten das Potenzial für hohe Renditen, während ETFs mit einem Anteil von 50% für eine breite Diversifikation und stabile Erträge sorgen sollen. Anleihen, die 20% des Portfolios ausmachen, bieten im Vergleich zu Aktien und ETFs eine geringere Volatilität und tragen zur Stabilität des Portfolios bei.
+
+Rohstoffe, die 5% unseres Portfolios ausmachen, dienen als Inflationsschutz und bieten zusätzliche Diversifikation. Optionsscheine, ebenfalls mit einem Anteil von 5%, ermöglichen es uns, auf Preisbewegungen von Vermögenswerten zu spekulieren und hohe Renditen zu erzielen. Kryptowährungen, die ebenfalls 5% des Portfolios ausmachen, bieten durch ihre hohe Volatilität und ihr hohes Wachstumspotenzial zusätzliche Chancen.
+
+### Diversifikation nach Branchen
+
+Die Diversifikation nach Branchen reduziert das Risiko von Marktschwankungen in spezifischen Sektoren. Unser Portfolio umfasst Investitionen in die Informationstechnologie sowie den Bereich der künstlichen Intelligenz. In diesen Märkten erhofften wir uns möglichst hohe Renditen und am aktuellen Aufschwung von KI teilzuhaben.
+
+Ebenfalls haben wir in Rohstoffe investiert, die eine wichtige Rolle in verschiedenen Industrien spielen. Der Halbleitersektor ist vertreten, da er die Grundlage für zahlreiche elektronische Geräte bildet und auch eine zentrale Rolle in der Entwicklung von Hardware für künstliche Intelligenz spielt. Der Bereich Solarenergie ist ebenfalls ein Bestandteil unseres Portfolios, da erneuerbare Energien zunehmend an Bedeutung gewinnen. Darüber hinaus haben wir Investitionen in die Gastronomie und Telekommunikation getätigt, um das Portfolio noch weiter zu streuen und a uch etwas von den Wachstumspotenzialen dieser Branchen profitierenzu können.
+
+Die größte Rolle bei der Diversifikation nach Branchen spielen jedoch wieder ETFs, da diese an einer sehr breiten Auswahl an Branchen teilhaben. Dies lässt sich z.B. sehr gut an dem Xtrackers MSCI World ETF 1C erkennen (s. Abbildung).
+
+![Pasted image 20240609232051](https://hackmd.io/_uploads/ByIxT9XBC.png)
+
+https://www.finanzen.net/etf/xtrackers-msci-world-etf-1c-ie00bj0kdq92
+
+Durch diese umfassende Diversifikation nach Ländern, Währungen, Anlageklassen und Branchen haben wir versucht ein robustes Portfolio aufzubauen, das sowohl Wachstumschancen als auch Schutz vor unterschiedlichen Risiken bietet.
 
 ## Gesamtübersicht der Investitionen
 
@@ -133,6 +159,14 @@ Diese Erkenntnisse unterstreichen die Bedeutung einer fundierten und flexiblen A
 #### Tagesgeldkonto
 
 #### Währungseffekte
+Unser Portfolio ist zum großteil in Euro angelegt, hauptsächlich weil 50% unseres Protoflios in ETFs angelegt ist, welche in Euro gehandelt werden. Wir besitzen aber auch Aktien, Rohstoffe und Kryptoanlagen in US-Dollar und eine Aktie in Kanadischen Dollar.
+
+##### CAD:
+Seit dem Kauf der Kanadischen Bedfort Metals Aktie am 22.05.2024 ist der Kannadische Dollar im Verhältnis zum Euro von 0,6745 auf 0,6738(09.06.2024) gesunken. Der Kurs der Aktie stieg von 2,1CAD auf 2,2CAD.
+
+$\frac{0,1}{2,1}= 4,8\%$ Veränderung des Aktienkurses
+
+$\frac{-0,0007}{0,6745}=-0,104\%$ Veränderung des Währungskurses
 
 ### Renditeübersicht
 
@@ -146,7 +180,7 @@ Diese Erkenntnisse unterstreichen die Bedeutung einer fundierten und flexiblen A
 
 ### Tagesgeldkonto
 - [ ] ToDo: Abbildung Abschluss des Tagesgeldkontos einfügen: 
-Das Tagesgeld bezeichnet das Kapital, welches nicht in einen Vermögensgegenstand angelegt wurde. Derzeit liegt der höchste Zins bei 4% jährlich, daher wurde immer ein gewisser Betrag des Startkapitals, von 1 Millionen Euro, eingepsart und auf dem Tagesgeldkonto geparkt. In der Übersicht sind die Transaktionen der Zu-& Abgänge der Vermögensgegenstände dargestellt und mindern oder mehren den Tagesgeldkontostand. Der Tageszins wurde täglich berechnet und die Summe folgend eingetragen. 
+Das Tagesgeld bezeichnet das Kapital, welches nicht in einen Vermögensgegenstand angelegt wurde. Derzeit liegt der höchste Zins bei 4% jährlich[^tagesgeld], daher wurde immer ein gewisser Betrag des Startkapitals, von einer Millionen Euro, eingespart und auf dem Tagesgeldkonto geparkt. In der Übersicht sind die Transaktionen der Zu-& Abgänge der Vermögensgegenstände dargestellt und mindern oder mehren den Tagesgeldkontostand. Der Tageszins wurde täglich berechnet und die Summe folgend eingetragen. 
 ### Transaktionen
 
 ### Einzelpapiere
@@ -208,3 +242,6 @@ Schuldverschreibungen, die von verschiedenen Organisationen wie Unternehmen und 
 ## Quellenverzeichnis
 
 https://themarketswatch.com/de/unternehmen/wie-investoren-davon-profitieren-koennen-microsoft-und-openai-planen-einen-mit-kernenergie-betriebenen-supercomputer-im-wert-von-100-milliarden-dollar/?gad_source=1&gclid=CjwKCAjwr7ayBhAPEiwA6EIGxEJEsHzRaio3SIQuw39kMdwiC03RFW294qp6xS5t52WZKV4h3IHJaxoCHDEQAvD_BwE
+
+[^strategie]: https://www.weltsparen.de/geldanlage/vermoegensaufbau/anlagestrategien/
+[^tagesgeld]:https://finanzvergleich.com/tagesgeld/tagesgeldvergleich/?caid=19106479193&agid=144948939518&tid=kwd-299296476905&loc=9041919&mt=b&nw=g&gcid=CjwKCAjwgpCzBhBhEiwAOSQWQXOugPYh4Y3ob9zz8q8ffqc573j3FgmE7zr3wrzxtQMcWABeHUm7QhoCHdcQAvD_BwE&creative=642477804457&kw=tagesgeldkonto%20h%C3%B6chste%20zinsen&pl=&pos=&tsrc=gads&pk_campaign=gads&pk_kwd=tagesgeldkonto%20h%C3%B6chste%20zinsen&mtm_source=gads&gclid=CjwKCAjwgpCzBhBhEiwAOSQWQXOugPYh4Y3ob9zz8q8ffqc573j3FgmE7zr3wrzxtQMcWABeHUm7QhoCHdcQAvD_BwE
